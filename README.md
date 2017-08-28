@@ -1,6 +1,6 @@
 ## Welcome to Birth Satisfaction Scale-Revised webpage
 
-#The Birth Satisfaction Scale-Revised (BSS-R) is a 10-item self-report measure of satisfaction with the childbearing experience. 
+# The Birth Satisfaction Scale-Revised (BSS-R) is a 10-item self-report measure of satisfaction with the childbearing experience. 
 
 You can use the [editor on GitHub](https://github.com/BirthSatisfactionScale-Revised/BirthSatisfactionScale-Revised.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
