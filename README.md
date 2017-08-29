@@ -2,6 +2,10 @@
 
 ### The Birth Satisfaction Scale-Revised (BSS-R) is a 10-item self-report measure of satisfaction with the childbearing experience from the woman's perspective. 
 
+The BSS-R was developed by [Hollins Martin and Martin in 2014](https://www.ncbi.nlm.nih.gov/pubmed/24252712) as a valid, reliable and quickly and easily completed measure of birth satisfaction.  The BSS-R is a multi-dimensional questionnaire which assesses three distinct but related dimensions of (i.) _Stress experienced during childbearing_, (ii.) _Women's attributes_ and (iii.) _Quality of care_.  These three sub-scales can be used independently and/or a _BSS-R total score_ generated.       
+
+
+
 You can use the [editor on GitHub](https://github.com/BirthSatisfactionScale-Revised/BirthSatisfactionScale-Revised.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
