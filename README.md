@@ -2,7 +2,9 @@
 
 ### The Birth Satisfaction Scale-Revised (BSS-R) is a 10-item self-report measure of satisfaction with the childbearing experience from the woman's perspective. 
 
-The BSS-R was developed by [Hollins Martin and Martin in 2014](https://www.ncbi.nlm.nih.gov/pubmed/24252712) as a valid, reliable and quickly and easily completed measure of birth satisfaction.  The BSS-R is a multi-dimensional questionnaire which assesses three distinct but related dimensions of (i.) _Stress experienced during childbearing_, (ii.) _Women's attributes_ and (iii.) _Quality of care_.  These three sub-scales can be used independently and/or a _BSS-R total score_ generated.       
+The BSS-R was developed by [Hollins Martin and Martin in 2014](https://www.ncbi.nlm.nih.gov/pubmed/24252712) as a valid, reliable and quickly and easily completed measure of birth satisfaction.  The BSS-R is a multi-dimensional questionnaire which assesses three distinct but related dimensions of (i.) _Stress experienced during childbearing_, (ii.) _Women's attributes_ and (iii.) _Quality of care_.  These three sub-scales can be used independently and/or a _BSS-R total score_ generated.  Higher BSS-R scores (sub-scales and total score) indicates comparatively greater birth satisfaction.
+
+The BSS-R has become due to it's ease of administration and scoring, excellent measurement, validity and reliability properties and evidence informed theoretical framework and underpinnings a popular measure for clinical and research use.  The BSS-R has been validated in English-speaking countries other than the UK, for example, the USA and systematic evaluation of these versions have demonstrated their equivalence to the [original version](http://www.womenandbirth.org/article/S1871-5192(16)30216-5/abstract)
 
 
 
